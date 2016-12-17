@@ -1,0 +1,3 @@
+SendVideo play {cat videos|query}
+SendVideo play {billy joel|query} from Youtube
+SendVideo play {fiona apple|query} on Youtube
